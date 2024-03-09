@@ -1,0 +1,22 @@
+{
+	"name": "ketocode",
+	"displayName": "Keto Code",
+	"description": "A minimalistic, 2 a.m all-dark theme for VS Code.",
+	"version": "0.0.1",
+	"publisher": "claudiusA",
+	"engines": {
+		"vscode": "^1.87.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "ketocode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ketocode-color-theme.json"
+			}
+		]
+	}
+}
