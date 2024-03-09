@@ -4,6 +4,18 @@
 	"description": "A minimalistic, 2 a.m all-dark theme for VS Code.",
 	"version": "0.0.1",
 	"publisher": "claudiusA",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ClaudiusAyadi/ketocode.git"
+	},
+	"keywords": [
+		"2 a.m dark",
+		"Claudius Ayadi",
+		"dark theme",
+		"ketocode",
+		"theme",
+		"vscode"
+	],
 	"engines": {
 		"vscode": "^1.87.0"
 	},
