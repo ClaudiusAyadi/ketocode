@@ -3,6 +3,7 @@
 	"displayName": "Keto Code",
 	"description": "A minimalistic, 2 a.m all-dark theme for VS Code.",
 	"version": "0.0.1",
+	"license": "MIT",
 	"publisher": "claudiusA",
 	"repository": {
 		"type": "git",
