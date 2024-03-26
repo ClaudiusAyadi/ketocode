@@ -33,7 +33,7 @@
 		]
 	},
 	"scripts": {
-		"vsce:publish": "vsce publish",
-		"vsce:package": "vsce package"
+		"build": "vsce package",
+		"publish": "vsce publish"
 	}
 }
