@@ -2,7 +2,7 @@
 	"name": "ketocode",
 	"displayName": "Keto Code",
 	"description": "A minimalistic, 2 a.m all-dark theme for VS Code.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
 	"publisher": "claudiusA",
 	"repository": {
@@ -31,5 +31,9 @@
 				"path": "./themes/ketocode-color-theme.json"
 			}
 		]
+	},
+	"scripts": {
+		"vsce:publish": "vsce publish",
+		"vsce:package": "vsce package"
 	}
 }
